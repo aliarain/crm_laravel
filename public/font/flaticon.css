@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?63fb88b0c2c589c2d56a157e2d8a8b79") format("truetype"), url("./flaticon.woff?63fb88b0c2c589c2d56a157e2d8a8b79") format("woff"), url("./flaticon.woff2?63fb88b0c2c589c2d56a157e2d8a8b79") format("woff2"), url("./flaticon.eot?63fb88b0c2c589c2d56a157e2d8a8b79#iefix") format("embedded-opentype"), url("./flaticon.svg?63fb88b0c2c589c2d56a157e2d8a8b79#flaticon") format("svg");
+}
+i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-left-quote:before {
+  content: "\f101";
+}
+
+.flaticon-call-center:before {
+  content: "\f102";
+}
+
+.flaticon-businessman:before {
+  content: "\f103";
+}
+
+.flaticon-sticker:before {
+  content: "\f104";
+}
+
+.flaticon-factory:before {
+  content: "\f105";
+}
+
+.flaticon-customer:before {
+  content: "\f106";
+}
+
+.flaticon-dollar-symbol:before {
+  content: "\f107";
+}
+
+.flaticon-employee:before {
+  content: "\f108";
+}
+
+.flaticon-advertisement:before {
+  content: "\f109";
+}
+
+.flaticon-play-button:before {
+  content: "\f10a";
+}
+
+.flaticon-placeholder:before {
+  content: "\f10b";
+}
+
+.flaticon-user:before {
+  content: "\f10c";
+}
+
+.flaticon-user-1:before {
+  content: "\f10d";
+}
+
+.flaticon-sticker-1:before {
+  content: "\f10e";
+}
+
+.flaticon-dollar:before {
+  content: "\f10f";
+}/*# sourceMappingURL=flaticon.css.map */

@@ -1,0 +1,21 @@
+{
+    "Travels": "Viajes",
+    "Type": "Tipo",
+    "Travel List": "Lista de viajes",
+    "Travel Type List": "Lista de tipos de viaje",
+    "Place": "Lugar",
+    "Status": "Estado",
+    "Expect Amount": "Cantidad esperada",
+    "Actual Amount": "Cantidad real",
+    "Create Travel Type": "Crear tipo de viaje",
+    "Update Travel Type": "Actualizar tipo de viaje",
+    "Create Travel": "Crear viaje",
+    "Motive": "Motivo",
+    "Expected Amount": "Cantidad esperada",
+    "Mode": "Modo",
+    "Bus": "Autobús",
+    "Train": "Tren",
+    "Plane": "Avión",
+    "Edit Travel": "Editar viaje",
+    "Travel Approve": "Aprobar viaje"
+}

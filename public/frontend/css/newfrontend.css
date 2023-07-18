@@ -1,0 +1,71 @@
+.users-count-box {
+    border: 1px dashed #c4bbbb;
+    padding: 10px;
+}
+.users-count-box h4 {
+    margin-bottom: 10px;
+}
+.users-count-box p {
+    margin-bottom: 10px;
+}
+.hr-list ul li{
+    list-style: none;
+
+}
+.card-shadows-cus{
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+.card-icon{
+    font-size: 40px;
+    color: #255c69;
+    margin-bottom: 10px;
+}
+.card-shadows-cus:hover{
+    cursor: pointer;
+    background: #6190E8 !important;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(93.58deg, #a58cf6  0%, #645496 100%) !important;  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(93.58deg, #a58cf6  0%, #645496 100%) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+}
+.card-shadows-cus:hover i,.card-shadows-cus:hover h3,.card-shadows-cus:hover p{
+    color: #fff !important;
+    transition: .1s ease-in-out !important;
+
+}
+.business-tabs{
+    border-bottom: none ;
+    text-align: -webkit-right !important;
+    text-align: right;
+}
+
+.business-tabs .nav-link{
+    font-size: 20px;
+    color: #222;
+    border: none;
+    border-top-left-radius: none;
+     border-top-right-radius: none;
+}
+.business-tabs .nav-link:focus, .business-tabs .nav-link:hover{
+    border-color: transparent;
+}
+ .business-tabs .nav-link.active {
+    color: #3A78D4 ;
+    background-color: transparent;
+    border: none;
+
+
+}
+@media screen and (max-width:991px) {
+    .side-img img {
+        margin: auto;
+        display: block;
+    }
+
+}
+.title-nav-content .learn-link p{
+    color: #0048A2 !important;
+}
+.new-feature-img img {
+    margin: auto;
+    display: block;
+}

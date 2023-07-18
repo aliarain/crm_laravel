@@ -1,0 +1,10 @@
+{
+    "Access to the requested resource is forbidden!": "الوصول إلى المورد المطلوب ممنوع!",
+    "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues": "فهم الخادم الطلب، ولكنه يرفض تنفيذه بسبب بيانات اعتماد غير صالحة، أو أذونات غير كافية، أو مشكلات مصادقة أخرى",
+    "Please contact the system administrator or check your access credentials and try again!": "يرجى الاتصال بمسؤول النظام أو التحقق من بيانات الاعتماد الخاصة بالوصول والمحاولة مرة أخرى!",
+    "Back To Homepage": "العودة إلى الصفحة الرئيسية",
+    "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues, please contact the system administrator or check your access credentials and try again!": "فهم الخادم الطلب، ولكنه يرفض تنفيذه بسبب بيانات اعتماد غير صالحة، أو أذونات غير كافية، أو مشكلات مصادقة أخرى، يرجى الاتصال بمسؤول النظام أو التحقق من بيانات الاعتماد الخاصة بالوصول والمحاولة مرة أخرى!",
+    "Validation Message Generate": "توليد رسالة التحقق",
+    "Server Error": "خطأ في الخادم",
+    "Sorry, the server encountered an internal error and could not complete your\n request": "عذراً، واجه الخادم خطأ داخلي ولم يتمكن من إكمال طلبك"
+}

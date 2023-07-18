@@ -1,0 +1,45 @@
+body {
+    font-size: 0.688rem;
+}
+
+.gry-color *,
+.gry-color {
+    color: #878f9c;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    font-weight: normal;
+}
+
+table td {
+    font-family: 'SolaimanLipi', sans-serif !important;
+}
+
+table.padding th {
+    padding: .25rem .7rem;
+}
+
+table.padding td {
+    padding: .25rem .7rem;
+}
+
+table.sm-padding td {
+    padding: .1rem .7rem;
+}
+
+.border-bottom td,
+.border-bottom th {
+    border-bottom: 1px solid #eceff4;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}

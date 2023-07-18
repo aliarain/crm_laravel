@@ -1,0 +1,55 @@
+/node_modules 
+/resources/lang/bn.json
+/resources/lang/en.json
+/resources/lang/permission.json
+/storage/*.key
+/vendor 
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+composer.lock
+vendor/composer/ 
+package-lock.json 
+node_modules
+node_modules/*
+storage
+storage/*
+/bootstrap  
+/nbproject/private/
+# Created by https://www.toptal.com/developers/gitignore/api/laravel
+# Edit at https://www.toptal.com/developers/gitignore?templates=laravel
+
+### Laravel ###
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+
+# Laravel 5 & Lumen specific with changed public path
+public_html/storage
+public_html/hot
+
+storage/*.key
+.env
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
+
+# End of https://www.toptal.com/developers/gitignore/api/laravel
+

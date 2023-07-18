@@ -1,0 +1,14 @@
+{
+    "Hello": "مرحبا",
+    "Welcome!": "أهلاً وسهلاً!",
+    "Please use the below mentioned code to reset your password": "يرجى استخدام الرمز المذكور أدناه لإعادة تعيين كلمة المرور الخاصة بك",
+    "This code will expire in 15 minutes and can only be used once": "سينتهي صلاحية هذا الرمز في غضون 15 دقيقة ولا يمكن استخدامه مرة أخرى",
+    "Copyright": "حقوق النشر",
+    "All rights reserved": "جميع الحقوق محفوظة",
+    "User Created": "تم إنشاء المستخدم",
+    "You have registered on our site": "لقد قمت بالتسجيل على موقعنا",
+    "Here is account credentials": "هنا بيانات الاعتماد الخاصة بالحساب",
+    "Email": "البريد الإلكتروني",
+    "Password": "كلمة المرور",
+    "Browse Here": "تصفح هنا"
+}

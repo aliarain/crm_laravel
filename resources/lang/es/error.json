@@ -1,0 +1,10 @@
+{
+    "Access to the requested resource is forbidden!": "¡El acceso al recurso solicitado está prohibido!",
+    "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues": "El servidor entendió la solicitud, pero se niega a cumplirla debido a credenciales inválidas, permisos insuficientes u otros problemas de autorización",
+    "Please contact the system administrator or check your access credentials and try again!": "¡Por favor, contacte al administrador del sistema o verifique sus credenciales de acceso e intente de nuevo!",
+    "Back To Homepage": "Volver a la página de inicio",
+    "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues, please contact the system administrator or check your access credentials and try again!": "El servidor entendió la solicitud, pero se niega a cumplirla debido a credenciales inválidas, permisos insuficientes u otros problemas de autorización, por favor contacte al administrador del sistema o verifique sus credenciales de acceso e intente de nuevo!",
+    "Validation Message Generate": "Generar mensaje de validación",
+    "Server Error": "Error del servidor",
+    "Sorry, the server encountered an internal error and could not complete your\n request": "Lo sentimos, el servidor encontró un error interno y no pudo completar su solicitud"
+}

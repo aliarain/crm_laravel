@@ -1,0 +1,19 @@
+{
+    "Travels": "Travels",
+    "Type": "Type",
+    "Travel List": "Travel List",
+    "Travel Type List": "Travel Type List",
+    "Place": "Place",
+    "Status": "Status",
+    "Expect Amount": "Expect Amount",
+    "Actual Amount": "Actual Amount",
+    "Create Travel Type": "Create Travel Type",
+    "Update Travel Type": "Update Travel Type",
+    "Create Travel": "Create Travel",
+    "Motive": "Motive",
+    "Expected Amount": "Expected Amount",
+    "Mode": "Mode",
+    "Bus": "Bus",
+    "Train": "Train",
+    "Plane": "Plane"
+}

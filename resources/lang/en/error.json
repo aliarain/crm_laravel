@@ -1,0 +1,11 @@
+{
+    "Access to the requested resource is forbidden!": "Access to the requested resource is forbidden!",
+    "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues": "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues",
+    "Please contact the system administrator or check your access credentials and try again!": "Please contact the system administrator or check your access credentials and try again!",
+    "Back To Homepage": "Back To Homepage",
+    "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues, please contact the system administrator or check your access credentials and try again!": "The server understood the request, but is refusing to fulfill it due to invalid credentials, insufficient permissions, or other authorization issues, please contact the system administrator or check your access credentials and try again!",
+    "Validation Message Generate": "Validation Message Generate",
+    "Server Error": "Server Error",
+    "Sorry, the server encountered an internal error and could not complete your\n                        request": "Sorry, the server encountered an internal error and could not complete your\n                        request",
+    "Sorry, the server encountered an internal error and could not complete your\r\n                        request": "Sorry, the server encountered an internal error and could not complete your\r\n                        request"
+}

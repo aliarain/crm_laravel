@@ -1,0 +1,89 @@
+.login-page {
+    width: 100%;
+    background-image: url('/public/images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 15%;
+    z-index: -2
+}
+
+@media screen and (max-width: 991px) {
+    .md-none {
+        display: none;
+    }
+}
+ .invalid-feedback {
+     display: block
+ }
+
+.btn-sm {
+    padding: 5px !important;
+    width: 100px;
+}
+
+p.small-text {
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.login-panel-btn {
+    color: #fff;
+    border-color: #4466f2;
+    background-color: #4466f2;
+    transition: all .25s ease-in-out;
+    padding: .45rem 1.2rem;
+    box-shadow: 0 4px 4px rgb(0 0 0 / 20%);
+    font-size: 0.975rem;
+    /* width: 100%; */
+    border-radius: 8px;
+}
+
+.cus-login-box-msg {
+    font-size: 16px;
+    padding: 0px
+}
+
+.login-card-body .input-group .form-control {
+    border: 1px solid #ced4da;
+}
+
+.dots-container {
+    margin: auto;
+}
+
+.login-logo a, .register-logo a {
+    color: #4466F2;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 991px) {
+    .new-btn {
+        padding: 10px 20px !important;
+    }
+
+    .cus-card {
+        max-width: 500px;
+        margin: auto
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .cus-card {
+        width: 320px;
+    }
+}
+input.form-control.field-is-required{
+    border: 1px solid red !important;
+}
+.cus-card{
+    max-width: 710px; 
+    box-shadow: 0 2px 20px 0 rgb(0 0 0 / 10%);
+    margin: auto;
+}
+.cus-card .card-body{
+    padding: 3rem;
+}
+.new-main-content{
+    min-height:calc(100vh - 60px);
+}
